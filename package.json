@@ -1,0 +1,32 @@
+{
+  "name": "haveibeenpwned-zxcvbn-password-scoring-lib",
+  "version": "1.0.0",
+  "description": "A simple library for scoring passwords and checking them against the pwnedpasswords API",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "crypto": "^1.0.1",
+    "underscore": "^1.9.1",
+    "zxcvbn": "^4.4.2"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0"
+  },
+  "scripts": {
+    "test": "mocha test/passTest.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geekinaboxx/haveibeenpwned-zxcvbn-password-scoring-lib.git"
+  },
+  "author": "Aleem",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/geekinaboxx/haveibeenpwned-zxcvbn-password-scoring-lib/issues"
+  },
+  "homepage": "https://github.com/geekinaboxx/haveibeenpwned-zxcvbn-password-scoring-lib#readme"
+}
