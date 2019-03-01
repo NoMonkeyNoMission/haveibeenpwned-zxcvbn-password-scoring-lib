@@ -8,9 +8,10 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "haveibeenpwned-zxcvbn-password-scoring-lib": "git+https://github.com/geekinaboxx/haveibeenpwned-zxcvbn-password-scoring-lib.git",
     "vue": "^2.5.17",
-    "vue-password": "^1.2.0",
-    "haveibeenpwned-zxcvbn-password-scoring-lib": "git+ssh://git@bitbucket.org/geekinaboxx/haveibeenpwned-zxcvbn-password-scoring-lib#v1.0.0"
+    "vue-loader": "^15.7.0",
+    "vue-password": "^1.2.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.0.1",

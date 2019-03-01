@@ -9,7 +9,6 @@
   },
   "dependencies": {
     "axios": "^0.18.0",
-    "crypto": "^1.0.1",
     "underscore": "^1.9.1",
     "zxcvbn": "^4.4.2"
   },
