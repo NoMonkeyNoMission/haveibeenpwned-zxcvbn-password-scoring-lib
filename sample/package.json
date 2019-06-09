@@ -11,12 +11,12 @@
     "haveibeenpwned-zxcvbn-password-scoring-lib": "git+https://github.com/geekinaboxx/haveibeenpwned-zxcvbn-password-scoring-lib.git",
     "vue": "^2.5.17",
     "vue-loader": "^15.7.0",
-    "vue-password": "^1.2.0"
+    "vue-password": "^2.0.2"
   },
   "devDependencies": {
-    "@vue/cli-plugin-babel": "^3.0.1",
+    "@vue/cli-plugin-babel": "^3.8.0",
     "@vue/cli-plugin-eslint": "^3.0.1",
-    "@vue/cli-service": "^3.0.1",
+    "@vue/cli-service": "^3.8.0",
     "vue-template-compiler": "^2.5.17"
   },
   "eslintConfig": {
