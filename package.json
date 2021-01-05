@@ -8,7 +8,7 @@
     "test": "test"
   },
   "dependencies": {
-    "axios": "^0.18.1",
+    "axios": "^0.21.1",
     "underscore": "^1.9.1",
     "zxcvbn": "^4.4.2"
   },
